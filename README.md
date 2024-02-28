@@ -30,3 +30,13 @@ EUR_INR_Analysis.ipynb: Jupyter notebook with step-by-step analysis.
 Feel free to create additional notebooks for specific analyses.
 Contributing
 Contributions are welcome! If you find any issues or have suggestions, feel free to open an issue or submit a pull request.
+# Moving Averages (MA):
+Simple Moving Average (SMA): Calculates the average price over a specified period (e.g., 50 days). A bullish signal occurs when the current price crosses above the SMA, and a bearish signal when it crosses below.
+Exponential Moving Average (EMA): Similar to SMA but gives more weight to recent prices. EMA crossovers can indicate buy or sell opportunities.
+
+# Relative strength index
+
+Relative Strength Index (RSI):
+RSI measures the strength and speed of price movements. Values above 70 indicate overbought conditions (potential sell signal), while values below 30 suggest oversold conditions (potential buy signal).
+# Bollinger Bands:
+Consists of an upper band (standard deviation above the moving average) and a lower band (standard deviation below). Price crossing the bands can signal buy or sell opportunities.
