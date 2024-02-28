@@ -10,7 +10,7 @@ scripts/: Python scripts for data manipulation and visualization.
 README.md: This file.
 Getting Started
 Clone the Repository:
-git clone https://github.com/your-username/EUR-INR-currency-analysis.git
+git clone https://github.com/pugazhendhi-github/Yahoo_Finance_currency_analysis.git
 cd EUR-INR-currency-analysis
 
 # Install Dependencies:
