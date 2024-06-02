@@ -29,8 +29,5 @@ The submission will be evaluated based on the following criteria:
     Graphs (25%): Clarity and effectiveness of graphical representation of metrics and decisions.
     Approach & Assumptions (25%): Appropriateness and justification of the approach taken, including any assumptions made during the analysis.
 
-Submission Deadline:
-The submission should be sent to divya@finance-flash.com on or before February 22, at 11 a.m. IST. Ensure that both the Python script and PowerPoint presentation include your name in the file names as per the provided instructions.
-
 Warm Regards,
 Pugazhendhi M
